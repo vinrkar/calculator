@@ -12,3 +12,4 @@
 # Code Coverage:
 * Launch from Terminal: Run the command, `./gradlew test`
 * Launch from IntelliJ IDE: `Run Test` from `CalculatorTest`
+* 
