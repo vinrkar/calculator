@@ -1,15 +1,14 @@
-# Spring Boot based Calculator App
+# Spring Boot based Calculator Application
 
-## Getting Started
-*   Java 8 is required.
-*   The project using Spring Boot framework.
-*   The project is built with Gradle.
+### Getting Started
+* Java 8 is required.
+* The project using Spring Boot framework.
+* The project is built with Gradle.
 
 ### Launch Application
-*   Launch from Terminal: Run the command, `./gradlew run`
-*   Launch from IntelliJ IDE: Run `main` from `CalculatorApp`
+* Launch from Terminal: Run the command, `./gradlew run`
+* Launch from IntelliJ IDE: Run `main` from `CalculatorApp`
  
-#### Code Coverage:
-*   Launch from Terminal: Run the command, `./gradlew test`
-*   Launch from IntelliJ IDE: `Run Test` from `CalculatorTest`
-
+### Code Coverage:
+* Launch from Terminal: Run the command, `./gradlew test`
+* Launch from IntelliJ IDE: `Run Test` from `CalculatorTest`

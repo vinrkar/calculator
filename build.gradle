@@ -28,4 +28,3 @@ test {
 application {
 	mainClassName = 'com.vrevankar.calculator.CalculatorApp'
 }
-
